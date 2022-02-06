@@ -51,7 +51,7 @@ const Input = styled.input`
 `
 
 const Logo = styled.h1`
-    font-weight: bold
+    font-weight: bold;
 `
 
 const MenuItem = styled.div`
